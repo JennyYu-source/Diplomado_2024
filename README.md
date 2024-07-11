@@ -31,7 +31,7 @@ This is a python repo for the diplo 2024
 
 ## Schools
 1. Primer Colegio Nacional de Nuestra Señora de Guadalupe
-2. Alfonso Ugarte
+2. Teresa Gonzales de Faning
 3. San Agustin
 4. Mariano Melgar
 5. Rosa Santa Maria
