@@ -21,3 +21,10 @@ This is a python repo for the diplo 2024
 3. Las puentes de madison
 4. La isla siniestra
 5. Deutshcland 73
+
+## Courses
+1. python
+2. sql
+3. julia
+4. R
+5. c++
