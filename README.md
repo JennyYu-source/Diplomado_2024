@@ -22,3 +22,10 @@ This is a python repo for the diplo 2024
 4. La isla siniestra
 5. Deutshcland 73
 6. The Godfather 
+
+## Courses
+1. python
+2. sql
+3. julia
+4. R
+5. c++
