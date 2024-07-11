@@ -1,4 +1,4 @@
-# Diplomado_2024
+* # Diplomado_2024
 This is a python repo for the diplo 2024
 
 ## Students
@@ -28,3 +28,10 @@ This is a python repo for the diplo 2024
 3. julia
 4. R
 5. c++
+
+## Schools
+1. Primer Colegio Nacional de Nuestra Señora de Guadalupe
+2. Teresa Gonzales de Faning
+3. San Agustin
+4. Mariano Melgar
+5. Rosa Santa Maria
