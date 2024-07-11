@@ -21,7 +21,6 @@ This is a python repo for the diplo 2024
 3. Las puentes de madison
 4. La isla siniestra
 5. Deutshcland 73
-6. The Godfather 
 
 ## Courses
 1. python
